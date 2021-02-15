@@ -1,4 +1,4 @@
-### Hi I am Alisha Budhathoki 👋
+### Heyoo, I'm Alisha Budhathoki 👋
 I am a Native and Flutter Application Developer. I am passionate about programming and I love learning new things.
  
 <!--
